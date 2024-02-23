@@ -4,12 +4,11 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'ช้อปได้ทั่วโลกด้วยระบบตะกร้าที่รองรับหลายสกุลเงิน',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        ระบบชำระเงินที่ใช้งานได้ทุกประเทศด้วยระบบตะกร้าที่รองรับหลายสกุลเงิน ลูกค้าของคุณสามารถเช็คราคา ชำระเงิน และคืนเงินโดยใช้สกุลเงินท้องถิ่นของพวกเขา
       </>
     ),
   },
